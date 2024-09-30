@@ -1,0 +1,12 @@
+{
+  "persons" : [
+    {
+      "name": "Bjarne Stroustrup",
+      "age": 73
+    },
+    {
+      "name":"Hana Dusíková",
+      "age": "unknown"
+    }
+  ]
+}
